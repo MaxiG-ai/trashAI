@@ -6,3 +6,4 @@ Created by Felix Schaefer and Maximilian Graf
 ## Hardware
 - Raspberry Pi
 - Camera Module
+- LEDs
