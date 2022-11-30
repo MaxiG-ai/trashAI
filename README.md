@@ -7,3 +7,7 @@ Created by Felix Schaefer and Maximilian Graf
 - Raspberry Pi
 - Camera Module
 - LEDs
+
+## Pi User
+Username: raspi
+PW: garbageai
