@@ -1,7 +1,7 @@
 # Selection
 To train a convolutional neural network (CNN) using TensorFlow to classify trash into the five categories of glass, paper, cardboard, plastic, and trash, you can use the following code:
 
-``
+```
 import tensorflow as tf
 
 # Load the dataset
@@ -41,7 +41,7 @@ model.fit(x_train, y_train, epochs=10, batch_size=32)
 # Evaluate the model
 _, accuracy = model.evaluate(x_test, y_test)
 print('Accuracy:', accuracy)
-´´
+```
 This code creates a CNN model using the TensorFlow Keras API and trains it on the CIFAR-10 dataset, which includes images of 10 different classes. In this case, we are using the model to classify trash into the five categories of glass, paper, cardboard, plastic, and trash.
 
 To use this code, you would need to modify the dataset and the labels to include images of trash and the corresponding labels for each of the five categories. You would also need to adjust the model architecture and the training parameters to optimize the model's performance on the trash classification task.
