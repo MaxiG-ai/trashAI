@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Felix/Documents/Repositories/trashAI/mlruns/0/9f8fa9c1b4454b85a92d7e5ae91f10eb/artifacts
+end_time: 1673010181956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f8fa9c1b4454b85a92d7e5ae91f10eb
+run_name: Run 1
+run_uuid: 9f8fa9c1b4454b85a92d7e5ae91f10eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673010094300
+status: 1
+tags: []
+user_id: Felix
