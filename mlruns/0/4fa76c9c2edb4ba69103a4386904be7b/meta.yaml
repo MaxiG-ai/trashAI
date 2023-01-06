@@ -4,12 +4,12 @@ entry_point_name: ''
 experiment_id: '0'
 lifecycle_stage: active
 run_id: 4fa76c9c2edb4ba69103a4386904be7b
-run_name: delightful-bird-1
+run_name: Run 1 w Dropout
 run_uuid: 4fa76c9c2edb4ba69103a4386904be7b
 source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1673009117286
-status: 3
+status: 1
 tags: []
 user_id: Felix

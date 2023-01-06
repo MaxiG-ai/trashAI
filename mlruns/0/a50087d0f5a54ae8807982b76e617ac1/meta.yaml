@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Felix/Documents/Repositories/trashAI/mlruns/0/a50087d0f5a54ae8807982b76e617ac1/artifacts
+end_time: 1673010431113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a50087d0f5a54ae8807982b76e617ac1
+run_name: delightful-bird-1
+run_uuid: a50087d0f5a54ae8807982b76e617ac1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1673010343498
+status: 3
+tags: []
+user_id: Felix
