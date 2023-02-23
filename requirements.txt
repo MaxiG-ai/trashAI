@@ -16,8 +16,8 @@ protobuf
 pyOpenSSL
 railroad
 Sphinx
-tensorflow-macos
+# tensorflow-macos
+tensorflow
 tornado
 trove_classifiers
-truststore
 urllib3_secure_extra
