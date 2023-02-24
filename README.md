@@ -18,7 +18,7 @@ Ziel war es, mit einm RaspberryPi aufgenommene Fotos lokal zu klassifizieren. Da
 - Tensorflow lite Model für Vorhersage verwendet
 
 ## Model Perfomance
-Eigenes Model:      ca. 65% val accuracy
+Eigenes Model:      ca. 65% val accuracy  
 Transfer Learning:  ca. 85% val accuracy
 
 ## Hardware
