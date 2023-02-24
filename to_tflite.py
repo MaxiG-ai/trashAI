@@ -1,7 +1,7 @@
 # this script converts the tensorflow model to a tensorflow lite model
 import tensorflow as tf
 
-# Path to the saved model
+# Path to the saved model (not kerase model!)
 saved_model_dir = 'models/model_2023-02-11_15-06-27'
 
 #convert the model
