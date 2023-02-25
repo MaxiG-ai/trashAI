@@ -28,6 +28,7 @@ Transfer Learning:  ca. 85% val accuracy
 
 ## Getting started
 - Extract `./data/dataset-resized.zip` into `./data/`
+- Create new folder ``./images/`
 - Prepare python enviroment according to `requirements.txt`
 - Run Notebook of your choice, set attributes according to your desired exports (eg. Images, Model, TF_lite model, ...)
   - For custom model run `EigenesModel.ipynb`
