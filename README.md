@@ -33,6 +33,7 @@ Transfer Learning:  ca. 85% val accuracy
 - Run Notebook of your choice, set attributes according to your desired exports (eg. Images, Model, TF_lite model, ...)
   - For custom model run `EigenesModel.ipynb`
   - For transfer learning run `TransferLearning.ipynb`
+- Conver the choosen model to TFlite by setting `convert_model = False` in the corresponding notebook block
 - For RaspberryPi deployment see: https://github.com/maximilian-graf2019/trashAI_pi
 
 ## Resources
