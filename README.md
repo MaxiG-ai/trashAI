@@ -26,6 +26,14 @@ Transfer Learning:  ca. 85% val accuracy
 - Camera Module
 - lots of braincells
 
+## Getting started
+- Extract `./data/dataset-resized.zip` into `./data/`
+- Prepare python enviroment according to `requirements.txt`
+- Run Notebook of your choice, set attributes according to your desired exports (eg. Images, Model, TF_lite model, ...)
+  - For custom model run `EigenesModel.ipynb`
+  - For transfer learning run `TransferLearning.ipynb`
+- For RaspberryPi deployment see: https://github.com/maximilian-graf2019/trashAI_pi
+
 ## Resources
 - https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/4
 - https://projects.raspberrypi.org/en/projects/push-button-stop-motion/4
@@ -38,3 +46,4 @@ Added Notes:
 - https://towardsdatascience.com/how-to-build-an-image-classifier-for-waste-sorting-6d11d3c9c478
 - https://tamalhansda.medium.com/classify-trash-with-ai-d1dabbba55d5
 - https://github.com/garythung/trashnet (Data)
+- https://github.com/maximilian-graf2019/trashAI_pi (Tensorflow lite deployment)
