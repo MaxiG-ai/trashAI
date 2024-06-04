@@ -1,8 +1,8 @@
-mlflow<3,>=2.1
-cffi==1.15.1
-defusedxml==0.7.1
-pandas==1.5.2
-pillow==9.2.0
-scipy==1.9.3
-tensorflow-intel==2.10.0
-tensorflow==2.10.0
+mlflow
+cffi
+defusedxml
+pandas
+pillow
+scipy
+tensorflow-intel
+tensorflow
